@@ -1,66 +1,4 @@
-Ir para o conteúdo
-menu de navegação
-Kelvinrvl
-/
-rafaballerini
 
-Escreva /para pesquisar
-
-Código
-Solicitações pull
-Ações
-Projetos
-Wikipédia
-Segurança
-Percepções
-Configurações
-Editando README.md em rafaballerini
-Migalhas de pãorafaballerini
-/
-README.md
-em
-principal
-
-Editar
-
-Visualização
-Modo de recuo
-
-Espaços
-Tamanho do recuo
-
-2
-Modo de quebra de linha
-
-Envoltório macio
-Editando o conteúdo do arquivo README.md
-1
-2
-3
-4
-5
-6
-7
-8
-9
-10
-11
-12
-13
-14
-15
-16
-17
-18
-19
-20
-21
-22
-23
-24
-25
-26
-27
 ## Olá eu sou o Kelvin Rocha, programador júnior cursando informática para internet no SENAI Nova Lima!
 
 Pessoal que veio atrás do **Github Stats:** a API provavelmente saiu do ar nesse período,
@@ -80,8 +18,3 @@ mas você pode adicionar a sua própria, seguindo esse [tutorial](https://github
 
 </div>
 
-Use Control + Shift + mpara alternar o tabfoco móvel da tecla. Alternativamente, use escentão tabpara passar para o próximo elemento interativo na página.
-Nenhum arquivo escolhido
-Anexe arquivos arrastando e soltando, selecionando ou colando-os.
-Editando rafaballerini/README.md no início · Kelvinrvl/rafaballerini
- 
